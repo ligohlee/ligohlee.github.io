@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "리고의 개발기록 - Visualize"
+title                    : "리고의 개발기록 - Conscious"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ligoh Lee"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Ligoh Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "아직은 하찮은 개발자"
+  bio              : "Taking to the next level."
   location         : "Gapyong"
   email            :
   links:
